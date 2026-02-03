@@ -1,5 +1,3 @@
-🧮 A fully featured desktop scientific calculator built with Python, designed for engineering, mathematics, and data analysis tasks.
-It combines basic arithmetic, scientific functions, statistics, and graph plotting inside an intuitive GUI.
+I developed a Python-based scientific calculator 🧮 that showcases my expertise with Python libraries 🐍 and advanced programming concepts 💻. Built with Tkinter 🖥️ for the GUI, NumPy & math 📊 for numerical computations, SymPy 📐 for symbolic differentiation and integration, and Matplotlib 📈 for visualizations, this tool performs extremely complex calculations in matrices, higher-order differentiation, and definite/indefinite integrals. It also handles trigonometric 🔺, hyperbolic, inverse ↩️, logarithmic 📏, and statistical 📊 operations.
 
-
-
+What makes this calculator unique is its attention to detail—it prompts users for every input, from matrix dimensions 📐 to graph colors 🎨 and styles, enabling fully customized computations and visualizations. Using functions 🔹, loops 🔄, and conditional statements ⚡, it combines modular design, robust error handling, and interactive features, showcasing my ability to integrate multiple libraries and advanced programming techniques into a powerful, multifunctional tool.
